@@ -52,7 +52,7 @@ Move the generated files to the project:
 # From the archive root
 mv categorized_media/ /path/to/twitter-chat-visualizer/public/
 
-# Extract the JSON from direct-messages.js
+# Extract the JSON from direct-messages.js (or manually remove the first part of the first line until the equal sign)
 node /path/to/twitter-chat-visualizer/scripts/extract-json.cjs
 
 # Then move the result:
