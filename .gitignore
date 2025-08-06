@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite build output
+dist/
+.build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Twitter archive temp/media
+categorized_media/
+**/direct-messages.json
+**/direct-messages.json.backup
+**/filtered-direct-messages.json
+public/
+
+# Python cache
+__pycache__/
+*.pyc
