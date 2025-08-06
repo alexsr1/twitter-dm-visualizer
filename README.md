@@ -71,19 +71,6 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🚫 Git Ignore Notes
-
-The `.gitignore` excludes:
-
-* `node_modules/`, build artifacts, and environment files
-* All Twitter archive and media files, including:
-
-  * `direct-messages.json`
-  * `categorized_media/`
-  * Backups or filtered versions
-
----
-
 ## 🚀 Tech Stack
 
 * [Svelte](https://svelte.dev/)
